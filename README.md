@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying in **Information Technology**
 
-- 🌱 I’m currently learning **Laravel , Next , Harvard CS50**
+- 🌱 I’m currently learning **to be Data Scientist**
 
 - 📫 How to reach me **thiraphat_120@hotmail.com**
 

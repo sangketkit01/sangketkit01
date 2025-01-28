@@ -1,3 +1,9 @@
+<style>
+  a img{
+    padding : 0px 5px;
+  }
+</style>
+
 <h1 align="center">Hi 👋, I'm New Thiraphat</h1>
 <h3 align="center">A passionate sophomore at Khon Kaen University , Thailand. Coding and Mathematics lover</h3>
 <img align='right' width='400' 

@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying in **Information Technology**
 
-- 🌱 I’m currently learning **to be Data Scientist**
+- 🌱 I’m currently learning **to be Data Scientist | Back-end Developer | Full-Stack Developer**
 
 - 📫 How to reach me **thiraphat_120@hotmail.com**
 

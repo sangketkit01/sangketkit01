@@ -1,71 +1,90 @@
 <h1 align="center">Hi 👋, I'm New Thiraphat</h1>
-<h3 align="center">A passionate sophomore at Khon Kaen University , Thailand. Coding and Mathematics lover</h3>
-<img align='right' width='400' 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangketkit01&label=Profile%20views&color=0e75b6&style=flat" alt="sangketkit01" /> </p>
-
-- 🔭 I’m currently studying in **Information Technology**
-
-- 🌱 I’m currently learning **to be Data Scientist | Back-end Developer | Full-Stack Developer**
-
-- 📫 How to reach me **thiraphat_120@hotmail.com**
-
-- ⚡ Fun fact **I'm always trying to play a joke but failed**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://web.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/thirough5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thirough5/" height="30" width="40" /></a>
-</p>
+<h3 align="center">A passionate sophomore at Khon Kaen University, Thailand. Coding and Mathematics lover</h3>
 
 <p align="left"> 
-  <h2><strong>Languages</strong></h2>
-  
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/>
-<!--- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> -->
-<h2><strong>Data Engineering tools</strong></h2>
-<a href="https://numpy.org/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="60" alt="Numpy"></a>
-<a href="https://pandas.pydata.org/"target="_blank"><img src="https://img.icons8.com/color/512/pandas.png" width="40"  alt="Pandas"></a>
-<a href="https://matplotlib.org/"target="_blank"><img src="https://www.jumpingrivers.com/blog/customising-matplotlib/matplot_title_logo.png" width="60"  alt="Matplotlib"></a>
-<a href="https://pypi.org/project/beautifulsoup4/"target="_blank"><img src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" width="60"  alt="BeautifulSoup"></a>
-<a href="https://pypi.org/project/requests/"target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png" width="40"  alt="Requests"></a>
+  <img src="https://komarev.com/ghpvc/?username=sangketkit01&label=Profile%20views&color=0e75b6&style=flat" alt="sangketkit01" />
+</p>
 
-<h2><strong>Web Frameworks and Libraries</strong></h2>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="/express.svg" style='color:white' alt="express" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-<a href="https://gin-gonic.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="40" height="50"/> 
-<a href="https://grpc.io/docs/languages/go/quickstart/" target="_blank" rel="noreferrer"> <img src="https://www.jetbrains.com/guide/assets/thumbnail-79141408.png" alt="gRPC" width="65" height="40"/>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<!-- <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer" class='st0'><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" /></a>  -->
+- 🔭 I’m currently studying in **Information Technology**
+- 🌱 I’m currently learning **to be Data Scientist | Back-end Developer | Full-Stack Developer**
+- 📫 How to reach me **thiraphat_120@hotmail.com**
+- ⚡ Fun fact **I'm always trying to play a joke but failed**
 
+---
+### 🔥 My Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangketkit01&show_icons=true&locale=en" alt="sangketkit01" /></p>
 
-<h2><strong>Front-End</strong></h2>
+### 🌐 Connect with me:
+<p align="left">
+  <a href="https://web.facebook.com/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/>
+  </a> &nbsp;
+  <a href="https://www.instagram.com/thirough5/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+</p>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/> </a> 
+---
 
-<h2><strong>Database and Version-Control</strong></h2>
+### 💻 Languages:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+</p>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb" width="40" height="40"/>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+---
 
-<h2><strong>Designing Tools</strong></h2>
-  
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>   
+### 📊 Data Engineering:
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="Numpy" width="60"/> &nbsp;
+  <img src="https://img.icons8.com/color/512/pandas.png" alt="Pandas" width="40"/> &nbsp;
+  <img src="https://www.jumpingrivers.com/blog/customising-matplotlib/matplot_title_logo.png" alt="Matplotlib" width="60"/> &nbsp;
+  <img src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" alt="BeautifulSoup" width="60"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png" alt="Requests" width="40"/>
+</p>
 
+---
+
+### 🚀 Web Frameworks and Libraries:
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin" width="40" height="50"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="50"/>
+</p>
+
+---
+
+### 🗄️ Databases:
+<p align="left">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" width="40" height="40"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50"/> &nbsp;
+  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="40" height="40"/>
+</p>
+
+---
+
+### 🔧 Other Tools:
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40"/> &nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/jetbrains-icon-2048x2048-f1almn4u.png" alt="JetBrains" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.creazilla.com/icons/3253718/eclipse-icon-icon-md.png" alt="Eclipse" width="40" height="40"/> &nbsp;
+  <img src="https://ss1.hevs.io/sw/img/android-studio-icon.png" alt="Android Studio" width="40"/>
 </p>
 
 

@@ -10,11 +10,10 @@
 - 📫 How to reach me **thiraphat_120@hotmail.com**
 - ⚡ Fun fact **I'm always trying to play a joke but failed**
 
----
-### 🔥 My Stats
+## 🔥 My Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangketkit01&show_icons=true&locale=en" alt="sangketkit01" /></p>
 
-### 🌐 Connect with me:
+## 🌐 Connect with me:
 <p align="left">
   <a href="https://web.facebook.com/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/>
@@ -24,9 +23,8 @@
   </a>
 </p>
 
----
 
-### 💻 Languages:
+## 💻 Languages:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> &nbsp;
@@ -39,9 +37,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </p>
 
----
 
-### 📊 Data Engineering:
+## 📊 Data Engineering:
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="Numpy" width="60"/> &nbsp;
   <img src="https://img.icons8.com/color/512/pandas.png" alt="Pandas" width="40"/> &nbsp;
@@ -50,9 +47,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png" alt="Requests" width="40"/>
 </p>
 
----
-
-### 🚀 Web Frameworks and Libraries:
+## 🚀 Web Frameworks and Libraries:
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="Laravel" width="40" height="40"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
@@ -63,9 +58,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="50"/>
 </p>
 
----
 
-### 🗄️ Databases:
+## 🗄️ Databases:
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" width="40" height="40"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40" height="40"/> &nbsp;
@@ -73,9 +67,8 @@
   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="40" height="40"/>
 </p>
 
----
 
-### 🔧 Other Tools:
+## 🔧 Other Tools:
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> &nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> &nbsp;

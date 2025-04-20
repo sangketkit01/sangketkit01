@@ -31,7 +31,7 @@
 <p align="left"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" width="40"/> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50"/> &nbsp; <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="40"/> &nbsp; <img src="https://miro.medium.com/v2/resize:fit:1024/1*UYY3_DdeTQY8HRYm-RkP9Q.png" alt="Redis" width="40"/> </p>
 
 
-## ⚙️ DevOps & Tools
+## ⚙️ Tools
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40"/> </p>
 
 ## 🎨 UI/UX & IDEs

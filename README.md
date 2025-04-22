@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm New Thiraphat</h1>
-<h3 align="center">A passionate sophomore at Khon Kaen University, Thailand. Coding and Mathematics lover</h3>
+<h3 align="center">A passionate junior at Khon Kaen University, Thailand. Coding and Mathematics lover</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sangketkit01&label=Profile%20views&color=0e75b6&style=flat" alt="sangketkit01" />

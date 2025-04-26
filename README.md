@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently studying in **Information Technology**
-- 🌱 I’m currently learning **to be Data Scientist | Back-end Developer | Full-Stack Developer**
+- 🌱 I’m currently learning **to be Data Engineer | Back-end Engineer | Software Engineer | Full-Stack Developer**
 - 📫 How to reach me **thiraphat_120@hotmail.com**
 - ⚡ Fun fact **I'm always trying to play a joke but failed**
 

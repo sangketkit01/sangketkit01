@@ -35,7 +35,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="TailwindCSS" width="60"/> &nbsp; 
 </p>
 
-### 🔹 Backend
+### 🔸 Backend
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" width="60"/> &nbsp; 
   <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" width="60"/> &nbsp; 

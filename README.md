@@ -41,6 +41,7 @@
   <img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" width="60"/> &nbsp; 
   <img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" width="60"/> &nbsp; 
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="NodeJS" width="60"/> &nbsp; 
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" width="60"/> &nbsp; 
   <img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" alt="RabbitMQ" width="60"/> &nbsp; 
 </p>
 

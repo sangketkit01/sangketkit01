@@ -68,6 +68,7 @@
 <p align="left"> 
  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" width="60"/> &nbsp; 
  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VSCode" width="60"/> &nbsp; 
+ <img src="https://skillicons.dev/icons?i=idea&theme=dark" alt="IntelliJ" width="60"/> &nbsp; 
  <img src="https://skillicons.dev/icons?i=eclipse&theme=dark" alt="Eclipse" width="60"/> &nbsp;  
  <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" alt="PyCharm" width="60"/> &nbsp;  
  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" alt="Android Studio" width="60"/> &nbsp;  

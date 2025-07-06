@@ -20,6 +20,7 @@
   <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" width="60"/></a> &nbsp;
   <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" width="60"/></a> &nbsp;
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" width="60"/></a> &nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" width="60"/></a> &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" width="60"/></a> &nbsp;
   <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" width="60"/></a> &nbsp;
   <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" width="60"/></a>
@@ -44,6 +45,7 @@
   <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" width="60"/></a> &nbsp;
   <a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" width="60"/></a> &nbsp;
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="60"/></a> &nbsp;
+  <a href="https://bun.sh/" target="_blank"><img src="https://skillicons.dev/icons?i=bun&theme=dark" alt="Bun" width="60"/></a> &nbsp;
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" width="60"/></a> &nbsp;
   <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" alt="RabbitMQ" width="60"/></a>
 </p>

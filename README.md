@@ -45,6 +45,7 @@
   <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" width="60"/></a> &nbsp;
   <a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" width="60"/></a> &nbsp;
   <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="60"/></a> &nbsp;
+  <a href="https://nestjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" alt="Nest.js" width="60"/></a> &nbsp;
   <a href="https://bun.sh/" target="_blank"><img src="https://skillicons.dev/icons?i=bun&theme=dark" alt="Bun" width="60"/></a> &nbsp;
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" width="60"/></a> &nbsp;
   <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" alt="RabbitMQ" width="60"/></a>

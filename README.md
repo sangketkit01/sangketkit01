@@ -9,9 +9,7 @@
 - 🌱 I’m currently learning **to be Data Engineer | Back-end Engineer | Software Engineer | Full-Stack Developer**  
 - 📫 How to reach me **thiraphat_120@hotmail.com**  
 - ⚡ Fun fact **I'm always trying to play a joke but failed**
-
-## 🔥 My Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangketkit01&show_icons=true&locale=en" alt="sangketkit01" /></p>
+- 🔎 Explore my portfolio website: https://sangketkit01.github.io/sangketkit01/
 
 ---
 

@@ -25,6 +25,7 @@ import {
   siPhp,
   siPostgresql,
   siPostman,
+  siPrisma,
   siPython,
   siReact,
   siSqlalchemy,
@@ -69,6 +70,25 @@ const projects: Project[] = [
     mark: "I",
   },
   {
+    title: "Nonthong School PP.5 Evaluation System",
+    type: "External Project",
+    summary:
+      "Full-stack academic evaluation and student grading system (ปพ.5) for school administration, handling curriculum management, grade assessments, competency evaluations, and official document generation.",
+    stack: ["Next.js", "Express.js", "TypeScript", "Prisma", "PostgreSQL", "Tailwind CSS", "Docker"],
+    contributions: [
+      "Architected and developed a full-stack academic assessment platform (ปพ.5) supporting dual roles: school administrators and teachers.",
+      "Built curriculum, classroom, student, and subject management modules with Excel (.xlsx) bulk import and automated data validation.",
+      "Implemented granular scoring workflows, grade point calculations, student attribute and competency evaluations, and attendance tracking.",
+      "Developed batch print engine for official Ministry of Education PP.5 documents and transcripts with dynamic score aggregation.",
+      "Containerized backend services with Docker & Docker Compose and deployed frontend infrastructure on Cloudflare.",
+    ],
+    repositories: [
+      { label: "Frontend", url: "https://github.com/sangketkit01/edu-eval-frontend" },
+      { label: "Backend", url: "https://github.com/sangketkit01/edu-eval-backend" },
+    ],
+    mark: "II",
+  },
+  {
     title: "Times Square Stock Management",
     type: "External Project",
     summary:
@@ -84,7 +104,7 @@ const projects: Project[] = [
       { label: "Backend", url: "https://github.com/sangketkit01/Times-Square-Stock-Backend" },
       { label: "Frontend", url: "https://github.com/sangketkit01/Times-Square-Stock-Frontend" },
     ],
-    mark: "II",
+    mark: "III",
   },
   {
     title: "Faculty Car Rental",
@@ -102,7 +122,7 @@ const projects: Project[] = [
       { label: "Backend", url: "https://github.com/sangketkit01/Backend-Faculty-Car-Rental" },
       { label: "Frontend", url: "https://github.com/sangketkit01/Frontend-Faculty-Car-Rental" },
     ],
-    mark: "III",
+    mark: "IV",
   },
   {
     title: "Readora",
@@ -117,7 +137,7 @@ const projects: Project[] = [
       "Implemented user and administrative features including comments, reports, privacy controls, and content moderation.",
     ],
     repositories: [{ label: "GitHub repository", url: "https://github.com/sangketkit01/Readora" }],
-    mark: "IV",
+    mark: "V",
   },
   {
     title: "Personal Financial API",
@@ -132,7 +152,7 @@ const projects: Project[] = [
       "Applied JWT authentication, ownership-based authorization, SQL migrations, generated queries, and automated tests.",
     ],
     repositories: [{ label: "GitHub repository", url: "https://github.com/sangketkit01/personal-financial" }],
-    mark: "V",
+    mark: "VI",
   },
   {
     title: "Media Library API",
@@ -147,7 +167,7 @@ const projects: Project[] = [
       "Added Docker and Docker Compose configuration for the application and database environment.",
     ],
     repositories: [{ label: "GitHub repository", url: "https://github.com/sangketkit01/media-library-api" }],
-    mark: "VI",
+    mark: "VII",
   },
   {
     title: "7 Coding Test",
@@ -162,7 +182,7 @@ const projects: Project[] = [
       "Implemented the bonus gRPC service, background user-count logging, Docker setup, and graceful shutdown handling.",
     ],
     repositories: [{ label: "GitHub repository", url: "https://github.com/sangketkit01/7-coding-test" }],
-    mark: "VII",
+    mark: "VIII",
   },
   {
     title: "Personal Blog",
@@ -177,7 +197,7 @@ const projects: Project[] = [
       "Applied Hexagonal Architecture, server-side sessions, CSRF protection, caching, and database migrations.",
     ],
     repositories: [{ label: "GitHub repository", url: "https://github.com/sangketkit01/Personal-Block" }],
-    mark: "VIII",
+    mark: "IX",
   },
   {
     title: "Kanchanarat Place",
@@ -195,7 +215,7 @@ const projects: Project[] = [
       { label: "Frontend", url: "https://github.com/sangketkit01/Kanchanarat-Place" },
       { label: "Backend", url: "https://github.com/sangketkit01/Kanchanarat-Place-Server" },
     ],
-    mark: "IX",
+    mark: "X",
   },
   {
     title: "Electronic Magazine",
@@ -213,7 +233,7 @@ const projects: Project[] = [
       { label: "Frontend", url: "https://github.com/sangketkit01/Electronic-Magazine" },
       { label: "Backend", url: "https://github.com/sangketkit01/Electronic-Magazine-Server" },
     ],
-    mark: "X",
+    mark: "XI",
   },
 ];
 
@@ -236,7 +256,7 @@ const stackGroups = [
   {
     number: "04",
     title: "Database",
-    items: ["PostgreSQL", "MySQL", "MongoDB", "Drizzle ORM", "GORM", "SQLC"],
+    items: ["PostgreSQL", "MySQL", "MongoDB", "Prisma", "Drizzle ORM", "GORM", "SQLC"],
   },
   {
     number: "05",
@@ -271,6 +291,7 @@ const techIcons: Record<string, SimpleIcon> = {
   PHP: siPhp,
   PostgreSQL: siPostgresql,
   Postman: siPostman,
+  Prisma: siPrisma,
   Python: siPython,
   React: siReact,
   "React.js": siReact,

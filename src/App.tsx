@@ -18,6 +18,7 @@ import {
   siLaravel,
   siLinux,
   siMongodb,
+  siMongoose,
   siMysql,
   siNextdotjs,
   siNodedotjs,
@@ -32,6 +33,7 @@ import {
   siSpringboot,
   siTailwindcss,
   siTypescript,
+  siVite,
   type SimpleIcon,
 } from "simple-icons";
 
@@ -235,6 +237,24 @@ const projects: Project[] = [
     ],
     mark: "XI",
   },
+  {
+    title: "FixFlow Maintenance & Repair Management",
+    type: "Course Project",
+    summary:
+      "Full-stack maintenance and repair management application connecting tenants, technicians, and administrators for issue reporting, task assignment, and progress tracking.",
+    stack: ["React.js", "Vite", "Tailwind CSS", "Node.js", "Express.js", "MongoDB", "Mongoose"],
+    contributions: [
+      "Designed and implemented full-stack maintenance ticket lifecycle connecting users, technicians, and administrators.",
+      "Built multi-role authentication and authorization (User, Technician, Admin) using JWT and bcrypt for secure access control.",
+      "Developed repair request submission, technician task assignment, proof-of-work image uploads, and status tracking.",
+      "Built administrative dashboard views for managing repair categories, monitoring service orders, and tracking technician workflows.",
+    ],
+    repositories: [
+      { label: "Frontend", url: "https://github.com/sangketkit01/FixFlow-Frontend" },
+      { label: "Backend", url: "https://github.com/sangketkit01/FixFlow-Backend" },
+    ],
+    mark: "XII",
+  },
 ];
 
 const stackGroups = [
@@ -285,6 +305,7 @@ const techIcons: Record<string, SimpleIcon> = {
   Laravel: siLaravel,
   Linux: siLinux,
   MongoDB: siMongodb,
+  Mongoose: siMongoose,
   MySQL: siMysql,
   "Next.js": siNextdotjs,
   "Node.js": siNodedotjs,
@@ -299,6 +320,7 @@ const techIcons: Record<string, SimpleIcon> = {
   "Spring Boot": siSpringboot,
   "Tailwind CSS": siTailwindcss,
   TypeScript: siTypescript,
+  Vite: siVite,
 };
 
 function TechBadge({ name, compact = false }: { name: string; compact?: boolean }) {

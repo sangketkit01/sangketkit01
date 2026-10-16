@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying in **Information Technology**  
 - 🌱 I’m currently learning **to be Data Engineer | Back-end Engineer | Software Engineer | Full-Stack Developer**  
-- 📫 How to reach me **thiraphat_120@hotmail.com**  
+- 📫 How to reach me **thiraphat.sangketkit@gmail.com**  
 - ⚡ Fun fact **I'm always trying to play a joke but failed**
 - 🔎 Explore my portfolio website: https://sangketkit01.github.io/sangketkit01/
 

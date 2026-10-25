@@ -40,6 +40,7 @@
 ### 🔸 Backend
 <p align="left"> 
   <a href="https://go.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" width="60"/></a> &nbsp;
+  <a href="https://www.djangoproject.com/start" target="_blank"><img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" width="60"/></a> &nbsp;
   <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring&theme=dark" alt="Spring" width="60"/></a> &nbsp;
   <a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" width="60"/></a> &nbsp;
   <a href="https://nestjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs&theme=dark" alt="Nest.js" width="60"/></a> &nbsp;

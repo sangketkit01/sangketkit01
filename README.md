@@ -58,6 +58,7 @@
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" width="60"/></a> &nbsp;
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" width="60"/></a> &nbsp;
   <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" width="60"/></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Redis" width="60"/></a>
 </p>
 
 ---
@@ -69,6 +70,15 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="60"/></a> &nbsp;
   <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" width="60"/></a> &nbsp;
   <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="60"/></a>
+</p>
+
+---
+
+## ☁️ Cloud & CI/CD
+<p align="left"> 
+  <a href="https://cloudflare.com" target="_blank"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Git" width="60"/></a> &nbsp;
+  <a href="https://azure.microsoft.com/en-us/get-started/azure-portal" target="_blank"><img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Docker" width="60"/></a> &nbsp;
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub" width="60"/></a> &nbsp;
 </p>
 
 ---

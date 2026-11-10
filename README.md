@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brandy</h1>
+<h1 align="center">Hi👋, I'm Brandy</h1>
 <h3 align="center">A passionate intern from Khon Kaen University, Thailand. Coding and Mathematics lover</h3>
 
 <p align="left"> 
@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently studying in **Information Technology**  
-- 🌱 I’m currently learning **Back-end Engineer | Software Engineer**  
+- 🌱 I’m currently doing an internship at **UpPass** as a **Backend Developer** 
 - 📫 How to reach me **thiraphat.sangketkit@gmail.com**  
 - ⚡ Fun fact **I'm always trying to play a joke but failed**
 - 🔎 Explore my portfolio website: https://sangketkit01.github.io/sangketkit01/

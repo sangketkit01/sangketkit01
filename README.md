@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm New Thiraphat</h1>
-<h3 align="center">A passionate junior at Khon Kaen University, Thailand. Coding and Mathematics lover</h3>
+<h1 align="center">Hi 👋, I'm Brandy</h1>
+<h3 align="center">A passionate intern from Khon Kaen University, Thailand. Coding and Mathematics lover</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sangketkit01&label=Profile%20views&color=0e75b6&style=flat" alt="sangketkit01" />
 </p>
 
 - 🔭 I’m currently studying in **Information Technology**  
-- 🌱 I’m currently learning **to be Data Engineer | Back-end Engineer | Software Engineer | Full-Stack Developer**  
+- 🌱 I’m currently learning **Back-end Engineer | Software Engineer**  
 - 📫 How to reach me **thiraphat.sangketkit@gmail.com**  
 - ⚡ Fun fact **I'm always trying to play a joke but failed**
 - 🔎 Explore my portfolio website: https://sangketkit01.github.io/sangketkit01/
